@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JuanGallard0/SED-crud-labo3/issues"
   },
-  "homepage": "https://github.com/JuanGallard0/SED-crud-labo3#readme"
+  "homepage": "https://github.com/JuanGallard0/SED-crud-labo3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
