@@ -1,0 +1,19 @@
+{
+  "name": "sed-crud-labo3",
+  "version": "1.0.0",
+  "description": "Labo 3 SED",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanGallard0/SED-crud-labo3.git"
+  },
+  "author": "Juan Gallardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanGallard0/SED-crud-labo3/issues"
+  },
+  "homepage": "https://github.com/JuanGallard0/SED-crud-labo3#readme"
+}
